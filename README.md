@@ -5,6 +5,7 @@ This project aims to develop a binary classifier that can predict the likelihood
 
 Usage
 Google CoLab was used instead of Jupyter Notebook
+All the Google CoLab files are located in the HDF5 files
 
 
 Results

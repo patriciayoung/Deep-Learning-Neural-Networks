@@ -1,11 +1,5 @@
-# deep-learning-challenge-neural-networks Readme File
-
 Overview
 This project aims to develop a binary classifier that can predict the likelihood of applicants achieving success if they receive funding from Alphabet Soup. The project will utilize the features present in the given dataset and employ diverse machine learning methods to train and assess the model's performance. The objective is to optimize the model in order to attain an accuracy score surpassing 75%.
-
-Usage
-Google CoLab was used instead of Jupyter Notebook
-
 
 Results
 Data Preprocessing
@@ -25,3 +19,4 @@ In my final optimization attempt, I removed the STATUS column. I kept the two dr
 
 Summary
 Given that I couldn't attain the target accuracy of 75%, I wouldn't suggest any of the models above. However, with additional time, I would explore alternative approaches like experimenting with different preprocessing modifications. I believe that making changes to the dropout layers, trying out various activation functions, and adjusting the number of layers and neurons could also contribute to optimizing the model and achieving the desired goal of 75% accuracy.
+
